@@ -1,0 +1,1 @@
+This is a script to be installed on the Zabbix server and called as an external script. It reads a simple text file which contains a list of domain names to be checked, one per line. Do not use a URL, just the domain name (e.g. google.com). 

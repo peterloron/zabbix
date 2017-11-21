@@ -1,2 +1,1 @@
-# zabbix
-Zabbix monitoring scripts and suchlike
+Various scripts and templates for monitoring with Zabbix.
